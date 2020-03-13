@@ -2,7 +2,7 @@
 
 Was feeling homesick for while stuck indoors avoiding COVID-19 on a rainy day. Would much rather be catching whatever it is you catch on playa
 
-./busy.png
+[[./busy.png]]
 
 ** Installing
 
